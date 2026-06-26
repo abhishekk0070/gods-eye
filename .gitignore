@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Gods Eye specific
+media/
+*.pt
+ffff.jpg
+yolo26n.pt
